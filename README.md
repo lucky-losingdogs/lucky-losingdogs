@@ -6,13 +6,10 @@
 
 ## Student Programmer | Game Developer | Art and Design enthusiast 
 
-<p align=center>
-  <img width="32" height="32" alt="sparkle1" src="https://github.com/user-attachments/assets/aed0c8c5-1518-485f-a91c-a23e7cc5a69f" />
-  <a href="www.linkedin.com/in/emily-adams-247bb4315" target="_blank">
-  <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <img width="32" height="32" alt="sparkle1" src="https://github.com/user-attachments/assets/aed0c8c5-1518-485f-a91c-a23e7cc5a69f" />
-</p>
+
+[<img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/emily-adams-247bb4315/)
+
+<img width="32" height="32" alt="sparkle1" src="https://github.com/user-attachments/assets/aed0c8c5-1518-485f-a91c-a23e7cc5a69f" />
 
 ---
 
