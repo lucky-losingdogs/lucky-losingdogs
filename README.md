@@ -5,7 +5,7 @@
 <p align="center">
 <p align="center">
   <img width="32" height="32" alt="sparkle1" src="https://github.com/user-attachments/assets/aed0c8c5-1518-485f-a91c-a23e7cc5a69f" />  
-  <a href="https://www.linkedin.com/in/emily-adams-247bb4315/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/lucky-adams-247bb4315/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://lucky-losingdogs.itch.io/"><img src="https://img.shields.io/badge/Itch.io-%23ff5c5a?style=for-the-badge" /></a>  
   <img width="32" height="32" alt="sparkle1" src="https://github.com/user-attachments/assets/aed0c8c5-1518-485f-a91c-a23e7cc5a69f" />
 </p>
