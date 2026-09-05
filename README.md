@@ -13,6 +13,7 @@
 </p>
 </p>
 
+### About Me
 
 - I'm a passionate programmer and designer with a strong focus on game development. I have a great amount of experience with both <b>Unity</b> and <b>Unreal Engine</b>, exploring ideas through small prototypes, game jams with groups, or complete experiences.
 - I have studied and created a strong foundation in <b>C++</b>, <b>C#</b> and <b>Verse</b>, where I've tackled everything from sorting algorithms to object-oriented design.
